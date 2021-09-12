@@ -1,0 +1,13 @@
+C:\Users\maxbu\OneDrive\Desktop\matematik program\bin\Debug\netcoreapp3.1\matematik program.exe
+C:\Users\maxbu\OneDrive\Desktop\matematik program\bin\Debug\netcoreapp3.1\matematik program.deps.json
+C:\Users\maxbu\OneDrive\Desktop\matematik program\bin\Debug\netcoreapp3.1\matematik program.runtimeconfig.json
+C:\Users\maxbu\OneDrive\Desktop\matematik program\bin\Debug\netcoreapp3.1\matematik program.runtimeconfig.dev.json
+C:\Users\maxbu\OneDrive\Desktop\matematik program\bin\Debug\netcoreapp3.1\matematik program.dll
+C:\Users\maxbu\OneDrive\Desktop\matematik program\bin\Debug\netcoreapp3.1\matematik program.pdb
+C:\Users\maxbu\OneDrive\Desktop\matematik program\obj\Debug\netcoreapp3.1\matematik program.csprojAssemblyReference.cache
+C:\Users\maxbu\OneDrive\Desktop\matematik program\obj\Debug\netcoreapp3.1\matematik program.AssemblyInfoInputs.cache
+C:\Users\maxbu\OneDrive\Desktop\matematik program\obj\Debug\netcoreapp3.1\matematik program.AssemblyInfo.cs
+C:\Users\maxbu\OneDrive\Desktop\matematik program\obj\Debug\netcoreapp3.1\matematik program.csproj.CoreCompileInputs.cache
+C:\Users\maxbu\OneDrive\Desktop\matematik program\obj\Debug\netcoreapp3.1\matematik program.dll
+C:\Users\maxbu\OneDrive\Desktop\matematik program\obj\Debug\netcoreapp3.1\matematik program.pdb
+C:\Users\maxbu\OneDrive\Desktop\matematik program\obj\Debug\netcoreapp3.1\matematik program.genruntimeconfig.cache
